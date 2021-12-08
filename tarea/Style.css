@@ -1,0 +1,26 @@
+body{
+    background-image: url('https://www.paho.org/sites/default/files/styles/max_1500x1500/public/2020-03/blue-covid-banner.jpg?itok=N2g8afH3');
+    
+}
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 500;
+    color: #03045e;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.main{
+    font-family: 'Cairo', sans-serif;
+    color: #0077b6;
+    font-weight: 200;
+    width: 100%;
+    background-color: #caf0f8;
+    width: 450px;
+}
+
+/*#div{
+    background-color: #caf0f8;
+    width: 450px;
+}
